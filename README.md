@@ -97,7 +97,7 @@ Evasion of currency transaction reporting requirements directly violates 31 U.S.
 File a Suspicious Activity Report (SAR) with FinCEN within 30 days and restrict transaction velocity.
 ```
 
-![Actual AI Auditor Output Screenshot](assets/actual_output_screenshot.png)
+![Actual AI Auditor Output Screenshot](assets/tab1_adhoc_auditor.png)
 
 ---
 
@@ -119,3 +119,27 @@ python -m pytest
 streamlit run app.py
 ```
 This opens the browser client (typically at `http://localhost:8501`).
+
+---
+
+## 6. Dashboard Interface Tour (Screenshots)
+
+Below are the screenshots of each horizontal workspace tab in the running prototype:
+
+### 1. Ad-Hoc AI Auditor Ingestion
+![Ad-Hoc AI Auditor Ingestion](assets/tab1_adhoc_auditor.png)
+
+### 2. Executive Risk Queue & priority list
+![Executive Risk Queue](assets/tab2_risk_queue.png)
+
+### 3. Client Dossier & Ledger History
+![Client Dossier](assets/tab3_client_dossier.png)
+
+### 4. Compliance Review & Analyst Action Center
+![Compliance Review](assets/tab4_compliance_review.png)
+
+### 5. AI Case Narrative expanders
+![AI Case Narrative](assets/tab5_ai_analysis.png)
+
+### 6. Consolidated Reports & Master Register Exports
+![Consolidated Reports](assets/tab6_report_generator.png)
