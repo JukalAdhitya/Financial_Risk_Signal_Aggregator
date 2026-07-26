@@ -76,7 +76,7 @@ graph TD
 }
 ```
 
-![Ingestion Input JSON Mockup](assets/ingestion_input_mockup.png)
+
 
 ### Corresponding Output Summary (Parsed AI Audit Report)
 ```markdown
