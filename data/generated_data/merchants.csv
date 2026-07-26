@@ -1,0 +1,251 @@
+merchant_id,merchant_name,category,country,blacklisted
+MERCH-0001,Larson and Sons,Dining,United Kingdom,False
+MERCH-0002,Martin and Sons,Dining,United Kingdom,False
+MERCH-0003,Rodriguez Inc,Dining,France,False
+MERCH-0004,Cooper-Finley,Retail,Switzerland,False
+MERCH-0005,"Moore, Cortez and Castillo",Retail,France,False
+MERCH-0006,Tran Group,Dining,Iraq,False
+MERCH-0007,"Robinson, Jordan and Wiley",Retail,Canada,False
+MERCH-0008,Smith Group,Groceries,Germany,False
+MERCH-0009,Allen PLC Pawnbrokers,Pawn Shop,Canada,False
+MERCH-0010,"Campbell, Chaney and Bryant Pawnbrokers",Pawn Shop,United States,False
+MERCH-0011,"Miller, Porter and Bryant",Groceries,Germany,False
+MERCH-0012,Skinner Inc,Retail,France,False
+MERCH-0013,"Crosby, Yang and Adkins",Retail,India,False
+MERCH-0014,Harrington-Jordan,Retail,United States,False
+MERCH-0015,Hughes-Phillips,Retail,Yemen,False
+MERCH-0016,Carter LLC,Dining,France,False
+MERCH-0017,"Freeman, Goodwin and King",Digital Services,Japan,False
+MERCH-0018,Sawyer PLC Pawnbrokers,Pawn Shop,France,False
+MERCH-0019,Gonzalez PLC,Groceries,United Kingdom,False
+MERCH-0020,Barrett and Sons,Dining,Australia,False
+MERCH-0021,Phillips and Sons,Groceries,Germany,False
+MERCH-0022,Binance-Mock,Crypto Exchange,Australia,False
+MERCH-0023,Johnson-Noble,Retail,Singapore,False
+MERCH-0024,Lucas and Sons Pawnbrokers,Pawn Shop,Switzerland,False
+MERCH-0025,Baker-Singh,Retail,Canada,False
+MERCH-0026,Fitzpatrick-Sanders,Dining,Canada,False
+MERCH-0027,"Barajas, Simpson and Murphy",Groceries,Canada,False
+MERCH-0028,Ross-Martinez,Retail,Switzerland,False
+MERCH-0029,Huffman LLC,Retail,Switzerland,False
+MERCH-0030,Perez and Sons,Retail,Myanmar,False
+MERCH-0031,Olson-Rodriguez Pawnbrokers,Pawn Shop,France,False
+MERCH-0032,Lewis and Sons,Groceries,Switzerland,False
+MERCH-0033,"Lewis, Johnson and Harris",Retail,France,False
+MERCH-0034,Velez-Evans,Retail,France,False
+MERCH-0035,"Nelson, Scott and Wiggins",Groceries,France,False
+MERCH-0036,Butler-Zamora,Dining,Germany,False
+MERCH-0037,"Woods, Soto and Jimenez",Retail,France,False
+MERCH-0038,Stout Inc,Retail,Canada,False
+MERCH-0039,Ayala Ltd,Retail,United Kingdom,False
+MERCH-0040,"Meyer, Hardy and Rodriguez",Retail,Singapore,False
+MERCH-0041,"Cunningham, Burns and James",Travel,Sudan,True
+MERCH-0042,"Boyd, Pope and Baxter",Retail,Germany,False
+MERCH-0043,Santos Inc,Retail,Venezuela,False
+MERCH-0044,Fields-Ayala,Groceries,Switzerland,False
+MERCH-0045,Weeks-Clark,Groceries,Singapore,False
+MERCH-0046,"Espinoza, Mahoney and Miller",Retail,India,False
+MERCH-0047,"Herrera, Robertson and Coffey",Groceries,Switzerland,False
+MERCH-0048,"Stephens, Moss and Miller",Retail,Australia,False
+MERCH-0049,Phelps Inc,Retail,Switzerland,False
+MERCH-0050,Johnson-Patel,Groceries,Venezuela,False
+MERCH-0051,"Smith, Peck and Hood",Groceries,France,False
+MERCH-0052,Huynh LLC,Digital Services,United Kingdom,False
+MERCH-0053,Donaldson-Chambers,Groceries,Switzerland,False
+MERCH-0054,Wilkerson Ltd,Retail,India,False
+MERCH-0055,Lee LLC,Groceries,Canada,False
+MERCH-0056,"Shaw, Medina and Wright",Retail,Canada,False
+MERCH-0057,Jones-Fritz,Retail,United Kingdom,False
+MERCH-0058,"Mcneil, Gonzalez and Pope",Groceries,Australia,False
+MERCH-0059,Hamilton-Waters,Groceries,India,False
+MERCH-0060,"King, Roberts and Nichols",Dining,India,False
+MERCH-0061,Young-Howard,Travel,United States,False
+MERCH-0062,"Salazar, Smith and Stewart",Dining,Libya,False
+MERCH-0063,Lloyd PLC,Dining,United Kingdom,False
+MERCH-0064,Waters-Luna,Retail,Japan,False
+MERCH-0065,Greene-Wright,Travel,Canada,False
+MERCH-0066,"Maynard, Crawford and Cooper",Groceries,Australia,False
+MERCH-0067,Lynn Inc,Groceries,Iraq,False
+MERCH-0068,"Levine, Randall and Acosta",Dining,Yemen,False
+MERCH-0069,Jones and Sons,Retail,Canada,False
+MERCH-0070,"Carroll, Richardson and Mcknight",Dining,North Korea,True
+MERCH-0071,Binance-Mock,Crypto Exchange,Canada,False
+MERCH-0072,"Carney, Long and Cunningham",Dining,Canada,False
+MERCH-0073,Davis-Rowland,Dining,United Kingdom,False
+MERCH-0074,Jones Ltd Casino,Casino & Gambling,Syria,True
+MERCH-0075,"Barry, Jones and Ramirez",Dining,Japan,False
+MERCH-0076,Brown-Lewis,Dining,Myanmar,False
+MERCH-0077,Binance-Mock,Crypto Exchange,Sudan,True
+MERCH-0078,CoinMixer,Crypto Exchange,India,True
+MERCH-0079,"Jimenez, Fernandez and Marquez",Retail,Switzerland,False
+MERCH-0080,Wilson-Parker,Retail,Japan,False
+MERCH-0081,Smith-Weeks Pawnbrokers,Pawn Shop,Libya,False
+MERCH-0082,Howe LLC,Groceries,Japan,False
+MERCH-0083,"Wright, Phillips and Nunez",Groceries,Singapore,False
+MERCH-0084,Brooks-Hunt,Retail,United Kingdom,False
+MERCH-0085,Willis PLC,Groceries,United Kingdom,False
+MERCH-0086,"Ramsey, Garcia and Rice",Retail,Singapore,False
+MERCH-0087,"Evans, Simpson and Johnson",Groceries,Japan,False
+MERCH-0088,"Reeves, Little and King",Groceries,Singapore,False
+MERCH-0089,Lopez-Ferguson,Groceries,Switzerland,False
+MERCH-0090,CoinBase-Mock,Crypto Exchange,Germany,False
+MERCH-0091,Webb PLC,Retail,Switzerland,False
+MERCH-0092,"Williams, Whitaker and Lucas Pawnbrokers",Pawn Shop,France,False
+MERCH-0093,"Ochoa, Thompson and Smith",Dining,Japan,False
+MERCH-0094,Miller-Bond,Retail,Myanmar,False
+MERCH-0095,Ford-Schwartz,Dining,Australia,False
+MERCH-0096,Willis-Mccoy,Retail,Germany,False
+MERCH-0097,"Brown, Carpenter and Murphy",Dining,Japan,False
+MERCH-0098,Castillo PLC,Retail,Germany,False
+MERCH-0099,Patton LLC,Travel,Australia,False
+MERCH-0100,Rhodes LLC,Groceries,France,False
+MERCH-0101,Dunn and Sons,Retail,United States,False
+MERCH-0102,Williamson Inc,Digital Services,United Kingdom,False
+MERCH-0103,Jordan Group,Groceries,Canada,False
+MERCH-0104,Bowman LLC,Groceries,Germany,False
+MERCH-0105,"Villegas, Carey and Williams",Retail,Syria,True
+MERCH-0106,Ramirez-Smith,Travel,Canada,False
+MERCH-0107,Barron-Sanchez,Groceries,United Kingdom,False
+MERCH-0108,"Sutton, Liu and Saunders",Groceries,Germany,False
+MERCH-0109,Reid-Austin,Retail,United States,False
+MERCH-0110,"Fleming, Mcmillan and Willis",Groceries,Switzerland,False
+MERCH-0111,Robinson-Romero Pawnbrokers,Pawn Shop,Sudan,True
+MERCH-0112,Rojas-Hahn,Retail,Afghanistan,False
+MERCH-0113,"Burnett, Molina and Garrison",Digital Services,Australia,False
+MERCH-0114,King Inc,Dining,Germany,False
+MERCH-0115,Rosales and Sons Casino,Casino & Gambling,India,False
+MERCH-0116,Bryan-Johnson,Retail,Singapore,False
+MERCH-0117,Kennedy-Michael,Groceries,Australia,False
+MERCH-0118,"Leon, Patel and Conley",Retail,France,False
+MERCH-0119,Logan-Le,Retail,North Korea,True
+MERCH-0120,"Bryant, Ryan and Hunt",Retail,Japan,False
+MERCH-0121,Walker Inc,Retail,Australia,False
+MERCH-0122,"Alvarez, Schaefer and Moore",Travel,Canada,False
+MERCH-0123,Cox PLC Casino,Casino & Gambling,Switzerland,False
+MERCH-0124,Mendoza-Colon,Groceries,Japan,False
+MERCH-0125,"Cohen, Lane and Campbell",Groceries,United Kingdom,False
+MERCH-0126,Sanders-Avery,Retail,Japan,False
+MERCH-0127,Binance-Mock,Crypto Exchange,United Kingdom,False
+MERCH-0128,"Steele, Valencia and Santos",Groceries,France,False
+MERCH-0129,Williamson-Wade,Groceries,Japan,False
+MERCH-0130,Browning-Perez,Groceries,Japan,False
+MERCH-0131,Brown-Morris,Groceries,North Korea,True
+MERCH-0132,Golden Group,Groceries,France,False
+MERCH-0133,CryptoWash,Crypto Exchange,United States,True
+MERCH-0134,"Anderson, Scott and Moreno",Travel,United States,False
+MERCH-0135,"Cox, Baker and Garcia",Retail,Canada,False
+MERCH-0136,"Williams, King and Mitchell",Dining,United States,False
+MERCH-0137,"Smith, Greene and Hall",Retail,France,False
+MERCH-0138,Gonzalez-Nelson Pawnbrokers,Pawn Shop,Libya,False
+MERCH-0139,Sherman Inc,Retail,United Kingdom,False
+MERCH-0140,Odonnell-Johnson,Retail,Yemen,False
+MERCH-0141,"Figueroa, Harris and Adams",Retail,France,False
+MERCH-0142,Brown-Spencer,Groceries,Myanmar,False
+MERCH-0143,Bell Group,Digital Services,Canada,False
+MERCH-0144,Woods Inc Casino,Casino & Gambling,United Kingdom,False
+MERCH-0145,Carpenter-Schmitt,Retail,Yemen,False
+MERCH-0146,Wolfe and Sons,Retail,Afghanistan,False
+MERCH-0147,Olsen-Anderson,Retail,Switzerland,False
+MERCH-0148,"Morales, Miller and Ewing",Groceries,Japan,False
+MERCH-0149,Parrish-Gibson,Retail,Australia,False
+MERCH-0150,Myers Inc,Groceries,United States,False
+MERCH-0151,"Smith, Hansen and Sexton Casino",Casino & Gambling,Switzerland,False
+MERCH-0152,White Ltd,Groceries,United Kingdom,False
+MERCH-0153,"Miranda, Parker and Taylor",Retail,United Kingdom,False
+MERCH-0154,CryptoWash,Crypto Exchange,Afghanistan,True
+MERCH-0155,Campbell LLC,Groceries,Germany,False
+MERCH-0156,"Bradshaw, Romero and Oneal",Groceries,France,False
+MERCH-0157,Alexander Group,Retail,Iraq,False
+MERCH-0158,Pruitt-Mcgee,Groceries,India,False
+MERCH-0159,"Orozco, Riggs and Navarro",Travel,France,False
+MERCH-0160,Santos PLC,Retail,Singapore,False
+MERCH-0161,"Rodriguez, Reese and Arellano",Dining,United States,False
+MERCH-0162,Baxter LLC,Retail,Switzerland,False
+MERCH-0163,Morgan LLC,Travel,France,False
+MERCH-0164,Davis Inc,Retail,Japan,False
+MERCH-0165,Huffman Ltd,Retail,Sudan,True
+MERCH-0166,Cole PLC,Dining,France,False
+MERCH-0167,Mosley Inc,Travel,France,False
+MERCH-0168,Hooper Inc,Groceries,India,False
+MERCH-0169,Gates LLC,Groceries,North Korea,True
+MERCH-0170,Cooper-Hogan,Retail,France,False
+MERCH-0171,Clark Group,Travel,Germany,False
+MERCH-0172,Juarez LLC,Groceries,Singapore,False
+MERCH-0173,Stevens-Espinoza,Retail,Japan,False
+MERCH-0174,Smith-Compton,Digital Services,India,False
+MERCH-0175,Velasquez Inc,Retail,United States,False
+MERCH-0176,"Mitchell, Ramos and Moore",Retail,Canada,False
+MERCH-0177,"Webster, Reeves and Mcclain",Retail,Iraq,False
+MERCH-0178,"Forbes, Ramsey and Thomas",Retail,Iran,True
+MERCH-0179,"Long, Rhodes and Hickman",Retail,Canada,False
+MERCH-0180,Charles-Nelson,Retail,United Kingdom,False
+MERCH-0181,Leblanc PLC,Groceries,India,False
+MERCH-0182,Stanley PLC Casino,Casino & Gambling,United Kingdom,False
+MERCH-0183,Lamb-Adkins,Retail,France,False
+MERCH-0184,Morris Inc,Retail,France,False
+MERCH-0185,CryptoWash,Crypto Exchange,India,True
+MERCH-0186,Stokes PLC,Dining,Australia,False
+MERCH-0187,Martinez Inc Casino,Casino & Gambling,France,False
+MERCH-0188,"Williams, Meza and Adkins",Groceries,Syria,True
+MERCH-0189,Larson-Garcia,Retail,Canada,False
+MERCH-0190,Hoffman Ltd,Dining,United States,False
+MERCH-0191,"Ramsey, Welch and Villegas Casino",Casino & Gambling,United Kingdom,False
+MERCH-0192,Brown-Richardson,Retail,Yemen,False
+MERCH-0193,Mercer-Armstrong,Groceries,Canada,False
+MERCH-0194,"Pierce, Dennis and Henderson",Travel,Japan,False
+MERCH-0195,Hart Group,Retail,Australia,False
+MERCH-0196,Torres Inc,Travel,Myanmar,False
+MERCH-0197,Black-Hudson,Retail,United Kingdom,False
+MERCH-0198,Wilkins and Sons,Groceries,Japan,False
+MERCH-0199,CoinMixer,Crypto Exchange,Canada,True
+MERCH-0200,Conway and Sons,Retail,Libya,False
+MERCH-0201,Ramos Group,Retail,Switzerland,False
+MERCH-0202,Flores-Mclaughlin,Retail,United Kingdom,False
+MERCH-0203,Gonzales PLC,Retail,Afghanistan,False
+MERCH-0204,Cooper-Wolfe,Retail,France,False
+MERCH-0205,"Walker, Williams and Boyer",Travel,Germany,False
+MERCH-0206,"Lopez, Martinez and Collins",Retail,Japan,False
+MERCH-0207,"Allen, Castro and Edwards",Retail,France,False
+MERCH-0208,Williams-Mercado,Travel,Singapore,False
+MERCH-0209,Miller-Oneill,Retail,Somalia,False
+MERCH-0210,"Bird, Cole and Jensen",Retail,France,False
+MERCH-0211,Hall-Huber,Groceries,Canada,False
+MERCH-0212,"Bryant, Romero and Henry",Groceries,United Kingdom,False
+MERCH-0213,CoinMixer,Crypto Exchange,United Kingdom,True
+MERCH-0214,Bishop Group,Travel,India,False
+MERCH-0215,Rodriguez LLC,Retail,United States,False
+MERCH-0216,Campbell-Riley,Retail,France,False
+MERCH-0217,"Christensen, Burns and Whitaker",Travel,Switzerland,False
+MERCH-0218,Oneill-Cochran,Retail,United Kingdom,False
+MERCH-0219,"Rangel, Boyd and Price",Dining,Canada,False
+MERCH-0220,"Goodwin, Wolfe and Patrick",Travel,France,False
+MERCH-0221,Goodman-Dickerson,Groceries,Germany,False
+MERCH-0222,Gordon-Fields,Dining,United States,False
+MERCH-0223,Raymond-Ayala,Dining,Singapore,False
+MERCH-0224,Bond Ltd,Retail,Singapore,False
+MERCH-0225,CoinBase-Mock,Crypto Exchange,United States,False
+MERCH-0226,Anderson Ltd,Digital Services,United Kingdom,False
+MERCH-0227,Spears Ltd,Retail,Singapore,False
+MERCH-0228,"Stuart, Harrington and Tate",Dining,Japan,False
+MERCH-0229,Moreno-Hines,Dining,Germany,False
+MERCH-0230,"Ford, Shaw and Douglas",Dining,Russia,True
+MERCH-0231,Rose-Pittman,Travel,United Kingdom,False
+MERCH-0232,Fisher Inc,Dining,Switzerland,False
+MERCH-0233,Oliver-Terry,Retail,Germany,False
+MERCH-0234,"Bishop, Marquez and Figueroa",Groceries,Switzerland,False
+MERCH-0235,"Wilson, Adkins and Brown",Retail,Germany,False
+MERCH-0236,Sanchez-Miller,Retail,Canada,False
+MERCH-0237,Bailey Inc,Dining,Germany,False
+MERCH-0238,Thomas PLC,Groceries,Germany,False
+MERCH-0239,Wyatt-York,Groceries,Germany,False
+MERCH-0240,Brewer PLC,Dining,Australia,False
+MERCH-0241,Moore-Smith,Retail,Japan,False
+MERCH-0242,"Harper, Nielsen and Oneill",Groceries,Japan,False
+MERCH-0243,Taylor-Ramsey,Groceries,India,False
+MERCH-0244,Hall LLC,Retail,Switzerland,False
+MERCH-0245,Wilson-Khan,Groceries,Switzerland,False
+MERCH-0246,Aguilar Group,Groceries,United States,False
+MERCH-0247,Pierce Inc,Dining,United Kingdom,False
+MERCH-0248,"Bryant, Stanley and Parks",Retail,Australia,False
+MERCH-0249,Sandoval Ltd,Retail,India,False
+MERCH-0250,"Perez, Taylor and Riggs",Digital Services,Japan,False

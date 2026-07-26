@@ -1,0 +1,31 @@
+watchlist_id,customer_id,status,reason
+WL-0001,CUST-0014,ACTIVE,OFAC SDN list match
+WL-0002,CUST-0016,ACTIVE,Structuring indicator warning
+WL-0003,CUST-0105,ACTIVE,Structuring indicator warning
+WL-0004,CUST-0185,ACTIVE,OFAC SDN list match
+WL-0005,CUST-0195,ACTIVE,Known money mule network connection
+WL-0006,CUST-0244,ACTIVE,OFAC SDN list match
+WL-0007,CUST-0262,ACTIVE,OFAC SDN list match
+WL-0008,CUST-0303,ACTIVE,Structuring indicator warning
+WL-0009,CUST-0478,ACTIVE,OFAC SDN list match
+WL-0010,CUST-0496,ACTIVE,OFAC SDN list match
+WL-0011,CUST-0008,ACTIVE,Repeated suspicious structuring flags
+WL-0012,CUST-0022,ACTIVE,Repeated suspicious structuring flags
+WL-0013,CUST-0046,ACTIVE,Repeated suspicious structuring flags
+WL-0014,CUST-0069,ACTIVE,PEP associated account monitoring
+WL-0015,CUST-0070,ACTIVE,Repeated suspicious structuring flags
+WL-0016,CUST-0072,ACTIVE,PEP associated account monitoring
+WL-0017,CUST-0080,ACTIVE,Repeated suspicious structuring flags
+WL-0018,CUST-0084,ACTIVE,PEP associated account monitoring
+WL-0019,CUST-0094,ACTIVE,PEP associated account monitoring
+WL-0020,CUST-0107,ACTIVE,Repeated suspicious structuring flags
+WL-0021,CUST-0258,ACTIVE,False positive match on name spelling
+WL-0022,CUST-0352,RESOLVED,False positive match on name spelling
+WL-0023,CUST-0065,ACTIVE,False positive match on name spelling
+WL-0024,CUST-0446,ACTIVE,False positive match on name spelling
+WL-0025,CUST-0457,RESOLVED,False positive match on name spelling
+WL-0026,CUST-0099,ACTIVE,False positive match on name spelling
+WL-0027,CUST-0077,RESOLVED,False positive match on name spelling
+WL-0028,CUST-0423,ACTIVE,False positive match on name spelling
+WL-0029,CUST-0332,RESOLVED,False positive match on name spelling
+WL-0030,CUST-0424,RESOLVED,False positive match on name spelling

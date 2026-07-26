@@ -1,0 +1,26 @@
+sanction_id,entity_name,country,sanction_type
+SANC-0001,Al-Barakaat,Cuba,OFAC Sanctions List
+SANC-0002,Cariano Bank,Iran,EU Financial Sanctions
+SANC-0003,Vnesheconombank,Iran,EU Financial Sanctions
+SANC-0004,Al-Aqsa Foundation,Cuba,UN Watchlist
+SANC-0005,Sberbank Russia,Syria,EU Financial Sanctions
+SANC-0006,Rosneft,Syria,EU Financial Sanctions
+SANC-0007,Nord Stream AG,Belarus,UN Watchlist
+SANC-0008,Jihad Money Transfer,Cuba,EU Financial Sanctions
+SANC-0009,Golden Coin Exchange,Sudan,UN Watchlist
+SANC-0010,CryptoWash Ltd,Cuba,OFAC Sanctions List
+SANC-0011,Shadow Cargo Corp,Iran,UN Watchlist
+SANC-0012,Far East Trade Co,Cuba,UN Watchlist
+SANC-0013,Johnson Inc Import/Export,Iran,UN Watchlist
+SANC-0014,"Oconnor, Ward and Jackson Import/Export",Syria,EU Financial Sanctions
+SANC-0015,"Clark, Harrison and Sparks Import/Export",Cuba,EU Financial Sanctions
+SANC-0016,"Mcbride, Miller and Macdonald Import/Export",Sudan,OFAC Sanctions List
+SANC-0017,Villarreal-Matthews Import/Export,Sudan,OFAC Sanctions List
+SANC-0018,Valdez-Ramos Import/Export,Iran,EU Financial Sanctions
+SANC-0019,Hunter Inc Import/Export,Sudan,UN Watchlist
+SANC-0020,"Vazquez, Miller and Wolfe Import/Export",North Korea,UN Watchlist
+SANC-0021,Park Inc Import/Export,Russia,OFAC Sanctions List
+SANC-0022,"Sandoval, Johns and Goodman Import/Export",Sudan,OFAC Sanctions List
+SANC-0023,Miller Ltd Import/Export,Iran,OFAC Sanctions List
+SANC-0024,"Banks, Williams and Williams Import/Export",Iran,UN Watchlist
+SANC-0025,Mercer-Oneal Import/Export,Cuba,EU Financial Sanctions

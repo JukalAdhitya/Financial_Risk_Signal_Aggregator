@@ -1,0 +1,702 @@
+[
+    {
+        "news_id": "NEWS-0001",
+        "entity_name": "Brittney Lowe",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Federal authorities open inquiry into financial transactions of Brittney Lowe due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0002",
+        "entity_name": "Paul Reyes",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Federal authorities open inquiry into financial transactions of Paul Reyes due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0003",
+        "entity_name": "Holly Erickson",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Federal authorities open inquiry into financial transactions of Holly Erickson due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0004",
+        "entity_name": "Thomas Carroll",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Federal authorities open inquiry into financial transactions of Thomas Carroll due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0005",
+        "entity_name": "Nathan Brown",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Federal authorities open inquiry into financial transactions of Nathan Brown due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0006",
+        "entity_name": "Kaitlyn Haynes",
+        "news_sentiment": "NEGATIVE",
+        "source": "Bloomberg",
+        "summary": "Federal authorities open inquiry into financial transactions of Kaitlyn Haynes due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0007",
+        "entity_name": "Mike Chambers",
+        "news_sentiment": "NEGATIVE",
+        "source": "Reuters",
+        "summary": "Federal authorities open inquiry into financial transactions of Mike Chambers due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0008",
+        "entity_name": "Dawn Palmer",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Federal authorities open inquiry into financial transactions of Dawn Palmer due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0009",
+        "entity_name": "Curtis Garza",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Federal authorities open inquiry into financial transactions of Curtis Garza due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0010",
+        "entity_name": "Jeffrey Walsh",
+        "news_sentiment": "NEGATIVE",
+        "source": "Reuters",
+        "summary": "Federal authorities open inquiry into financial transactions of Jeffrey Walsh due to suspected asset concealment."
+    },
+    {
+        "news_id": "NEWS-0011",
+        "entity_name": "Angela Graham",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Regulatory audit finds undisclosed PEP relations linking back to accounts managed by Angela Graham."
+    },
+    {
+        "news_id": "NEWS-0012",
+        "entity_name": "Shawn Williamson",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Regulatory audit finds undisclosed PEP relations linking back to accounts managed by Shawn Williamson."
+    },
+    {
+        "news_id": "NEWS-0013",
+        "entity_name": "Angela Carpenter",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Regulatory audit finds undisclosed PEP relations linking back to accounts managed by Angela Carpenter."
+    },
+    {
+        "news_id": "NEWS-0014",
+        "entity_name": "Tiffany Gray",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Regulatory audit finds undisclosed PEP relations linking back to accounts managed by Tiffany Gray."
+    },
+    {
+        "news_id": "NEWS-0015",
+        "entity_name": "Amanda Meyers",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Regulatory audit finds undisclosed PEP relations linking back to accounts managed by Amanda Meyers."
+    },
+    {
+        "news_id": "NEWS-0016",
+        "entity_name": "CryptoWash",
+        "news_sentiment": "NEGATIVE",
+        "source": "Coindesk",
+        "summary": "FinCEN blocks operations of CryptoWash charging them with laundering over $50M in crypto tokens."
+    },
+    {
+        "news_id": "NEWS-0017",
+        "entity_name": "CoinMixer",
+        "news_sentiment": "NEGATIVE",
+        "source": "Coindesk",
+        "summary": "FinCEN blocks operations of CoinMixer charging them with laundering over $50M in crypto tokens."
+    },
+    {
+        "news_id": "NEWS-0018",
+        "entity_name": "Morris and Sons",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Class-action lawsuit filed against Morris and Sons alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0019",
+        "entity_name": "Jo Hoover",
+        "news_sentiment": "NEUTRAL",
+        "source": "New York Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of Jo Hoover."
+    },
+    {
+        "news_id": "NEWS-0020",
+        "entity_name": "Chad Mullen",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of Chad Mullen."
+    },
+    {
+        "news_id": "NEWS-0021",
+        "entity_name": "Price Group",
+        "news_sentiment": "NEUTRAL",
+        "source": "Bloomberg",
+        "summary": "Industry analysis panel conducts case study review on operations model of Price Group."
+    },
+    {
+        "news_id": "NEWS-0022",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Class-action lawsuit filed against CoinBase-Mock alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0023",
+        "entity_name": "Binance-Mock",
+        "news_sentiment": "NEGATIVE",
+        "source": "New York Times",
+        "summary": "Class-action lawsuit filed against Binance-Mock alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0024",
+        "entity_name": "Hayes, Castro and Mills",
+        "news_sentiment": "POSITIVE",
+        "source": "Bloomberg",
+        "summary": "Hayes, Castro and Mills announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0025",
+        "entity_name": "Susan Silva",
+        "news_sentiment": "NEGATIVE",
+        "source": "Reuters",
+        "summary": "Class-action lawsuit filed against Susan Silva alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0026",
+        "entity_name": "Parsons Group",
+        "news_sentiment": "NEUTRAL",
+        "source": "New York Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of Parsons Group."
+    },
+    {
+        "news_id": "NEWS-0027",
+        "entity_name": "Maynard-Ellis",
+        "news_sentiment": "NEGATIVE",
+        "source": "Bloomberg",
+        "summary": "Class-action lawsuit filed against Maynard-Ellis alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0028",
+        "entity_name": "CryptoWash",
+        "news_sentiment": "POSITIVE",
+        "source": "Reuters",
+        "summary": "CryptoWash announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0029",
+        "entity_name": "Smith-Sandoval",
+        "news_sentiment": "POSITIVE",
+        "source": "Wall Street Journal",
+        "summary": "Smith-Sandoval announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0030",
+        "entity_name": "Tammie Hooper",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Class-action lawsuit filed against Tammie Hooper alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0031",
+        "entity_name": "Henry PLC",
+        "news_sentiment": "NEUTRAL",
+        "source": "Reuters",
+        "summary": "Industry analysis panel conducts case study review on operations model of Henry PLC."
+    },
+    {
+        "news_id": "NEWS-0032",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of CoinBase-Mock."
+    },
+    {
+        "news_id": "NEWS-0033",
+        "entity_name": "Colleen Shea",
+        "news_sentiment": "POSITIVE",
+        "source": "New York Times",
+        "summary": "Colleen Shea announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0034",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "NEGATIVE",
+        "source": "Reuters",
+        "summary": "Class-action lawsuit filed against CoinBase-Mock alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0035",
+        "entity_name": "Huffman, James and Thornton",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of Huffman, James and Thornton."
+    },
+    {
+        "news_id": "NEWS-0036",
+        "entity_name": "CryptoWash",
+        "news_sentiment": "POSITIVE",
+        "source": "Bloomberg",
+        "summary": "CryptoWash announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0037",
+        "entity_name": "CryptoWash",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of CryptoWash."
+    },
+    {
+        "news_id": "NEWS-0038",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "POSITIVE",
+        "source": "Wall Street Journal",
+        "summary": "CoinBase-Mock announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0039",
+        "entity_name": "Binance-Mock",
+        "news_sentiment": "NEGATIVE",
+        "source": "New York Times",
+        "summary": "Class-action lawsuit filed against Binance-Mock alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0040",
+        "entity_name": "Binance-Mock",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of Binance-Mock."
+    },
+    {
+        "news_id": "NEWS-0041",
+        "entity_name": "Bryan-Malone",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Class-action lawsuit filed against Bryan-Malone alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0042",
+        "entity_name": "Moody Group",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Class-action lawsuit filed against Moody Group alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0043",
+        "entity_name": "Ashley Guerra",
+        "news_sentiment": "NEUTRAL",
+        "source": "Bloomberg",
+        "summary": "Industry analysis panel conducts case study review on operations model of Ashley Guerra."
+    },
+    {
+        "news_id": "NEWS-0044",
+        "entity_name": "Lance Garcia",
+        "news_sentiment": "NEGATIVE",
+        "source": "New York Times",
+        "summary": "Class-action lawsuit filed against Lance Garcia alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0045",
+        "entity_name": "CoinMixer",
+        "news_sentiment": "POSITIVE",
+        "source": "Bloomberg",
+        "summary": "CoinMixer announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0046",
+        "entity_name": "Ann Thompson",
+        "news_sentiment": "POSITIVE",
+        "source": "New York Times",
+        "summary": "Ann Thompson announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0047",
+        "entity_name": "Garza-Tate",
+        "news_sentiment": "NEUTRAL",
+        "source": "New York Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of Garza-Tate."
+    },
+    {
+        "news_id": "NEWS-0048",
+        "entity_name": "Barbara Conley MD",
+        "news_sentiment": "NEUTRAL",
+        "source": "Reuters",
+        "summary": "Industry analysis panel conducts case study review on operations model of Barbara Conley MD."
+    },
+    {
+        "news_id": "NEWS-0049",
+        "entity_name": "Manning, Fleming and King",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of Manning, Fleming and King."
+    },
+    {
+        "news_id": "NEWS-0050",
+        "entity_name": "Kim Gallegos",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of Kim Gallegos."
+    },
+    {
+        "news_id": "NEWS-0051",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Class-action lawsuit filed against CoinBase-Mock alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0052",
+        "entity_name": "CryptoWash",
+        "news_sentiment": "POSITIVE",
+        "source": "Wall Street Journal",
+        "summary": "CryptoWash announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0053",
+        "entity_name": "Craig Lee",
+        "news_sentiment": "NEUTRAL",
+        "source": "Financial Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of Craig Lee."
+    },
+    {
+        "news_id": "NEWS-0054",
+        "entity_name": "Lori Larson",
+        "news_sentiment": "POSITIVE",
+        "source": "Reuters",
+        "summary": "Lori Larson announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0055",
+        "entity_name": "Nicole Little",
+        "news_sentiment": "NEUTRAL",
+        "source": "Bloomberg",
+        "summary": "Industry analysis panel conducts case study review on operations model of Nicole Little."
+    },
+    {
+        "news_id": "NEWS-0056",
+        "entity_name": "Binance-Mock",
+        "news_sentiment": "POSITIVE",
+        "source": "Wall Street Journal",
+        "summary": "Binance-Mock announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0057",
+        "entity_name": "Kathryn Davidson",
+        "news_sentiment": "POSITIVE",
+        "source": "New York Times",
+        "summary": "Kathryn Davidson announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0058",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "POSITIVE",
+        "source": "Bloomberg",
+        "summary": "CoinBase-Mock announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0059",
+        "entity_name": "CoinMixer",
+        "news_sentiment": "NEUTRAL",
+        "source": "New York Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of CoinMixer."
+    },
+    {
+        "news_id": "NEWS-0060",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Class-action lawsuit filed against CoinBase-Mock alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0061",
+        "entity_name": "Turner, Brown and Miller",
+        "news_sentiment": "NEGATIVE",
+        "source": "Bloomberg",
+        "summary": "Class-action lawsuit filed against Turner, Brown and Miller alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0062",
+        "entity_name": "CoinMixer",
+        "news_sentiment": "POSITIVE",
+        "source": "New York Times",
+        "summary": "CoinMixer announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0063",
+        "entity_name": "Nguyen Ltd",
+        "news_sentiment": "NEUTRAL",
+        "source": "Reuters",
+        "summary": "Industry analysis panel conducts case study review on operations model of Nguyen Ltd."
+    },
+    {
+        "news_id": "NEWS-0064",
+        "entity_name": "Arias-Acosta",
+        "news_sentiment": "POSITIVE",
+        "source": "New York Times",
+        "summary": "Arias-Acosta announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0065",
+        "entity_name": "Simmons LLC",
+        "news_sentiment": "POSITIVE",
+        "source": "Financial Times",
+        "summary": "Simmons LLC announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0066",
+        "entity_name": "Stanley Logan",
+        "news_sentiment": "NEUTRAL",
+        "source": "New York Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of Stanley Logan."
+    },
+    {
+        "news_id": "NEWS-0067",
+        "entity_name": "CryptoWash",
+        "news_sentiment": "POSITIVE",
+        "source": "Reuters",
+        "summary": "CryptoWash announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0068",
+        "entity_name": "John Salazar",
+        "news_sentiment": "POSITIVE",
+        "source": "Bloomberg",
+        "summary": "John Salazar announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0069",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "NEGATIVE",
+        "source": "Wall Street Journal",
+        "summary": "Class-action lawsuit filed against CoinBase-Mock alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0070",
+        "entity_name": "Dickerson and Sons",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of Dickerson and Sons."
+    },
+    {
+        "news_id": "NEWS-0071",
+        "entity_name": "Wyatt, Jones and Woods",
+        "news_sentiment": "NEUTRAL",
+        "source": "Bloomberg",
+        "summary": "Industry analysis panel conducts case study review on operations model of Wyatt, Jones and Woods."
+    },
+    {
+        "news_id": "NEWS-0072",
+        "entity_name": "Hernandez, Reid and Werner",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Class-action lawsuit filed against Hernandez, Reid and Werner alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0073",
+        "entity_name": "Binance-Mock",
+        "news_sentiment": "POSITIVE",
+        "source": "Bloomberg",
+        "summary": "Binance-Mock announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0074",
+        "entity_name": "Sanchez-Hall",
+        "news_sentiment": "POSITIVE",
+        "source": "Bloomberg",
+        "summary": "Sanchez-Hall announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0075",
+        "entity_name": "Robin Campbell",
+        "news_sentiment": "NEUTRAL",
+        "source": "Bloomberg",
+        "summary": "Industry analysis panel conducts case study review on operations model of Robin Campbell."
+    },
+    {
+        "news_id": "NEWS-0076",
+        "entity_name": "Jenkins, Nicholson and Rodriguez",
+        "news_sentiment": "POSITIVE",
+        "source": "Bloomberg",
+        "summary": "Jenkins, Nicholson and Rodriguez announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0077",
+        "entity_name": "Martinez-Saunders",
+        "news_sentiment": "NEUTRAL",
+        "source": "Financial Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of Martinez-Saunders."
+    },
+    {
+        "news_id": "NEWS-0078",
+        "entity_name": "CoinMixer",
+        "news_sentiment": "NEGATIVE",
+        "source": "Bloomberg",
+        "summary": "Class-action lawsuit filed against CoinMixer alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0079",
+        "entity_name": "Matthew Manning",
+        "news_sentiment": "NEUTRAL",
+        "source": "Bloomberg",
+        "summary": "Industry analysis panel conducts case study review on operations model of Matthew Manning."
+    },
+    {
+        "news_id": "NEWS-0080",
+        "entity_name": "CoinMixer",
+        "news_sentiment": "NEGATIVE",
+        "source": "Reuters",
+        "summary": "Class-action lawsuit filed against CoinMixer alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0081",
+        "entity_name": "Scott, Atkinson and Lang",
+        "news_sentiment": "NEUTRAL",
+        "source": "Reuters",
+        "summary": "Industry analysis panel conducts case study review on operations model of Scott, Atkinson and Lang."
+    },
+    {
+        "news_id": "NEWS-0082",
+        "entity_name": "Moreno, Cunningham and Thomas",
+        "news_sentiment": "NEUTRAL",
+        "source": "New York Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of Moreno, Cunningham and Thomas."
+    },
+    {
+        "news_id": "NEWS-0083",
+        "entity_name": "Sandra Dudley",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of Sandra Dudley."
+    },
+    {
+        "news_id": "NEWS-0084",
+        "entity_name": "Ali, Perez and Andrade",
+        "news_sentiment": "NEUTRAL",
+        "source": "Bloomberg",
+        "summary": "Industry analysis panel conducts case study review on operations model of Ali, Perez and Andrade."
+    },
+    {
+        "news_id": "NEWS-0085",
+        "entity_name": "Navarro Ltd",
+        "news_sentiment": "NEUTRAL",
+        "source": "Reuters",
+        "summary": "Industry analysis panel conducts case study review on operations model of Navarro Ltd."
+    },
+    {
+        "news_id": "NEWS-0086",
+        "entity_name": "Campbell-Miller",
+        "news_sentiment": "POSITIVE",
+        "source": "New York Times",
+        "summary": "Campbell-Miller announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0087",
+        "entity_name": "Binance-Mock",
+        "news_sentiment": "POSITIVE",
+        "source": "New York Times",
+        "summary": "Binance-Mock announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0088",
+        "entity_name": "CryptoWash",
+        "news_sentiment": "NEUTRAL",
+        "source": "Wall Street Journal",
+        "summary": "Industry analysis panel conducts case study review on operations model of CryptoWash."
+    },
+    {
+        "news_id": "NEWS-0089",
+        "entity_name": "Campbell Inc",
+        "news_sentiment": "POSITIVE",
+        "source": "Reuters",
+        "summary": "Campbell Inc announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0090",
+        "entity_name": "Estrada PLC",
+        "news_sentiment": "NEGATIVE",
+        "source": "Reuters",
+        "summary": "Class-action lawsuit filed against Estrada PLC alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0091",
+        "entity_name": "Hall-Phillips",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Class-action lawsuit filed against Hall-Phillips alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0092",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "NEGATIVE",
+        "source": "Bloomberg",
+        "summary": "Class-action lawsuit filed against CoinBase-Mock alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0093",
+        "entity_name": "CoinBase-Mock",
+        "news_sentiment": "NEGATIVE",
+        "source": "Reuters",
+        "summary": "Class-action lawsuit filed against CoinBase-Mock alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0094",
+        "entity_name": "Jennifer Wilson",
+        "news_sentiment": "POSITIVE",
+        "source": "New York Times",
+        "summary": "Jennifer Wilson announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0095",
+        "entity_name": "Wanda Lee",
+        "news_sentiment": "NEGATIVE",
+        "source": "New York Times",
+        "summary": "Class-action lawsuit filed against Wanda Lee alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0096",
+        "entity_name": "Lisa Peterson",
+        "news_sentiment": "NEGATIVE",
+        "source": "Financial Times",
+        "summary": "Class-action lawsuit filed against Lisa Peterson alleging breach of data governance standards."
+    },
+    {
+        "news_id": "NEWS-0097",
+        "entity_name": "CryptoWash",
+        "news_sentiment": "NEUTRAL",
+        "source": "Financial Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of CryptoWash."
+    },
+    {
+        "news_id": "NEWS-0098",
+        "entity_name": "Warner, Zuniga and Black",
+        "news_sentiment": "POSITIVE",
+        "source": "Wall Street Journal",
+        "summary": "Warner, Zuniga and Black announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0099",
+        "entity_name": "CryptoWash",
+        "news_sentiment": "POSITIVE",
+        "source": "Bloomberg",
+        "summary": "CryptoWash announces record quarterly growth and expansion into European markets."
+    },
+    {
+        "news_id": "NEWS-0100",
+        "entity_name": "Binance-Mock",
+        "news_sentiment": "NEUTRAL",
+        "source": "Financial Times",
+        "summary": "Industry analysis panel conducts case study review on operations model of Binance-Mock."
+    }
+]

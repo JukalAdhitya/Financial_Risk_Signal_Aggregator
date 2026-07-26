@@ -1,0 +1,51 @@
+location_id,city,country,risk_level
+LOC-0001,Caracas,Venezuela,HIGH
+LOC-0002,Mogadishu,Somalia,HIGH
+LOC-0003,Sanaa,Yemen,HIGH
+LOC-0004,Kabul,Afghanistan,HIGH
+LOC-0005,Yangon,Myanmar,HIGH
+LOC-0006,Baghdad,Iraq,HIGH
+LOC-0007,Tripoli,Libya,HIGH
+LOC-0008,Tehran,Iran,HIGH
+LOC-0009,Pyongyang,North Korea,HIGH
+LOC-0010,Damascus,Syria,HIGH
+LOC-0011,Moscow,Russia,HIGH
+LOC-0012,Minsk,Belarus,HIGH
+LOC-0013,Panama City,Panama,MEDIUM
+LOC-0014,Cayman Islands,Cayman Islands,MEDIUM
+LOC-0015,Nassau,Bahamas,MEDIUM
+LOC-0016,Zurich,Switzerland,MEDIUM
+LOC-0017,Macau,Macau,MEDIUM
+LOC-0018,Nicosia,Cyprus,MEDIUM
+LOC-0019,Gibraltar,Gibraltar,MEDIUM
+LOC-0020,Valletta,Malta,MEDIUM
+LOC-0021,Lake David,Venezuela,HIGH
+LOC-0022,Lake Williamville,Cyprus,MEDIUM
+LOC-0023,East Ryanland,Iraq,HIGH
+LOC-0024,Nixonfurt,Myanmar,HIGH
+LOC-0025,Kathleenbury,Afghanistan,HIGH
+LOC-0026,Gutierrezfort,Panama,MEDIUM
+LOC-0027,Donnastad,Malta,MEDIUM
+LOC-0028,Lake Juliefort,Yemen,HIGH
+LOC-0029,East Marcusborough,Cyprus,MEDIUM
+LOC-0030,Sharpmouth,Cyprus,MEDIUM
+LOC-0031,Port Cynthia,Cyprus,MEDIUM
+LOC-0032,East Emily,Iraq,HIGH
+LOC-0033,West Fred,Venezuela,HIGH
+LOC-0034,West Michael,Afghanistan,HIGH
+LOC-0035,Kevinburgh,Myanmar,HIGH
+LOC-0036,Carlosport,Cyprus,MEDIUM
+LOC-0037,Lake Alexandraside,Libya,HIGH
+LOC-0038,East Kellyton,Iraq,HIGH
+LOC-0039,Jasonmouth,Venezuela,HIGH
+LOC-0040,Williamborough,Libya,HIGH
+LOC-0041,New David,Iraq,HIGH
+LOC-0042,Gregoryburgh,Cyprus,MEDIUM
+LOC-0043,West Samanthabury,Yemen,HIGH
+LOC-0044,Galvanfurt,Myanmar,HIGH
+LOC-0045,Lake Emily,Yemen,HIGH
+LOC-0046,Smithville,Panama,MEDIUM
+LOC-0047,North Sarah,Afghanistan,HIGH
+LOC-0048,Schultzberg,Afghanistan,HIGH
+LOC-0049,Duncanmouth,Somalia,HIGH
+LOC-0050,South Laura,Iraq,HIGH
