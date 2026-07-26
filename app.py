@@ -136,6 +136,9 @@ st.markdown("""
         background-color: #16213E !important;
         border-right: 1px solid #334155;
     }
+    [data-testid="stSidebar"] label, [data-testid="stSidebar"] p, [data-testid="stSidebar"] span, [data-testid="stSidebar"] div, [data-testid="stSidebar"] h1, [data-testid="stSidebar"] h2, [data-testid="stSidebar"] h3 {
+        color: #FFFFFF !important;
+    }
     
     /* Header Styling */
     h1, h2, h3, h4, h5, h6 {
@@ -173,12 +176,16 @@ st.markdown("""
     
     /* Utility Card panels class */
     .custom-card {
-        background-color: #16213E;
+        background-color: #16213E !important;
+        color: #FFFFFF !important;
         border: 1px solid #334155;
         border-radius: 8px;
         padding: 20px;
         margin-bottom: 20px;
         box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+    .custom-card h1, .custom-card h2, .custom-card h3, .custom-card h4, .custom-card h5, .custom-card h6, .custom-card p, .custom-card span, .custom-card div, .custom-card b {
+        color: #FFFFFF !important;
     }
     
     /* Buttons Custom Theme */
@@ -201,16 +208,25 @@ st.markdown("""
     
     /* Tab Styling */
     .stTabs [data-baseweb="tab-list"] {
+        background-color: #0B1220 !important;
+        border-bottom: 2px solid #334155;
+        padding: 5px 10px 0px 10px;
         gap: 10px;
     }
     
     .stTabs [data-baseweb="tab"] {
-        background-color: #16213E;
-        border: 1px solid #334155;
+        background-color: #16213E !important;
+        color: #94A3B8 !important;
+        border: 1px solid #334155 !important;
+        border-bottom: none !important;
         border-radius: 6px 6px 0px 0px;
         padding: 8px 16px;
-        color: #94A3B8;
         font-weight: 600;
+    }
+    
+    .stTabs [data-baseweb="tab"]:hover {
+        color: #FFFFFF !important;
+        background-color: #1E293B !important;
     }
     
     .stTabs [aria-selected="true"] {
@@ -229,11 +245,15 @@ st.markdown("""
     
     .streamlit-expanderContent {
         background-color: #0B1220 !important;
+        color: #E2E8F0 !important;
         border-left: 1px solid #334155 !important;
         border-right: 1px solid #334155 !important;
         border-bottom: 1px solid #334155 !important;
         border-radius: 0px 0px 6px 6px !important;
         padding: 15px !important;
+    }
+    .streamlit-expanderContent p, .streamlit-expanderContent span, .streamlit-expanderContent div, .streamlit-expanderContent li, .streamlit-expanderContent ol, .streamlit-expanderContent ul, .streamlit-expanderContent b, .streamlit-expanderContent strong {
+        color: #E2E8F0 !important;
     }
     
     /* Status Label classes */
