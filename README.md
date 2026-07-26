@@ -97,7 +97,7 @@ Evasion of currency transaction reporting requirements directly violates 31 U.S.
 File a Suspicious Activity Report (SAR) with FinCEN within 30 days and restrict transaction velocity.
 ```
 
-![Compliance Audit Output Mockup](assets/compliance_report_mockup.png)
+![Actual AI Auditor Output Screenshot](assets/actual_output_screenshot.png)
 
 ---
 
