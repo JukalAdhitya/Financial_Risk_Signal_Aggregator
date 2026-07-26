@@ -76,6 +76,8 @@ graph TD
 }
 ```
 
+![Ingestion Input JSON Mockup](assets/ingestion_input_mockup.png)
+
 ### Corresponding Output Summary (Parsed AI Audit Report)
 ```markdown
 ### calculated_risk_score: 88.5
@@ -94,6 +96,8 @@ Evasion of currency transaction reporting requirements directly violates 31 U.S.
 #### 4. RECOMMENDED IMMEDIATE ACTION
 File a Suspicious Activity Report (SAR) with FinCEN within 30 days and restrict transaction velocity.
 ```
+
+![Compliance Audit Output Mockup](assets/compliance_report_mockup.png)
 
 ---
 
