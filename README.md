@@ -4,7 +4,6 @@ An enterprise-grade financial risk scoring and compliance audit prototype design
 
 ---
 
-
 ## 1. Our Ingestion & Risk Scoring Approach
 
 Our prototype aggregates fragmented signals (relational transactions, login history, PEP checks, watchlist databases, and adverse news events) into a unified compliance view using a multi-layered detection pipeline:
