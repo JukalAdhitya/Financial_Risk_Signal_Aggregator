@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from datetime import datetime
-
 # Import project modules
 from config.config import FILE_PATHS, RULE_CATALOG
 from generate_data import main as run_data_generator
