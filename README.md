@@ -3,6 +3,7 @@
 An enterprise-grade financial risk scoring and compliance audit prototype designed to ingest structured and unstructured datasets, run automated transaction monitoring rules, prioritize compliance queues, and compile AI-powered compliance narrative case files.
 
 ---
+
 ## 1. Our Ingestion & Risk Scoring Approach
 
 Our prototype aggregates fragmented signals (relational transactions, login history, PEP checks, watchlist databases, and adverse news events) into a unified compliance view using a multi-layered detection pipeline:
